@@ -11,7 +11,7 @@ body{
     --textFontSize: 16px;
     --blockHeaderFontSize: 20px;
 }
-.header__h2{
+.advantages__h2{
     font-family: "MullerBold";
     font-size: var(--headerFontSize);
     color: var(--grayColor);
