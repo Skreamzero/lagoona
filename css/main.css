@@ -3,6 +3,12 @@ body{
     width: 1170px;
     margin: 0 auto;
 }
+h2{
+    font-family: "MullerBold";
+    font-size: var(--headerFontSize);
+    color: var(--grayColor);
+    margin: 0 0 30px 40px;
+}
 :root{
     --goldColor: #F0BF5F;
     --grayColor: #333333;
@@ -10,12 +16,6 @@ body{
     --headerFontSize: 40px;
     --textFontSize: 16px;
     --blockHeaderFontSize: 20px;
-}
-h2{
-    font-family: "MullerBold";
-    font-size: var(--headerFontSize);
-    color: var(--grayColor);
-    margin: 0 0 30px 40px;
 }
 .advantages__list{
     padding: 0;
